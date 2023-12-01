@@ -1,0 +1,102 @@
+.main .back-ground{
+    position: relative;
+    background-attachment: fixed;
+    background-size: contain;
+    width: 100%;    
+}
+.main>nav>div>a{
+    position: relative;
+    margin-left: 400px;
+    bottom: 970px;
+    font-size: 30px;
+    color: white;
+    text-decoration-line: none;    
+}
+.main>nav>a{
+    position: relative;
+    flex-direction: row;
+    margin: 10px;
+    color: white;
+    left: 900px;
+    bottom: 1000px;
+    font-size: 30px;
+    text-decoration-line: none;
+}
+.container .body{
+    color: white;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    bottom: 900px;
+}
+.container>.body>h1{
+    font-size: 80px;
+    margin-bottom: 10px;
+}
+.introduction{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: -300px;
+}
+
+.introduction .int{
+    max-width: 400px;
+    margin: 60px;
+    top: 20px;
+}
+.myservice{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    width: 300px;
+    text-align: center;
+    margin-top: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.descreption{
+    color: blue;
+}
+#ourwork{
+    margin-top: 600px;
+    text-align: center;
+}
+.photo{
+    margin: 5px;
+}
+#footer{
+    position: relative;
+}
+.content-contact{
+    position: absolute;
+    width: 80%;
+    margin-right:auto ;
+    margin-left: auto;
+    top: 20px;
+    left: 15%;
+    color: white;
+}
+.contact-info{
+    float: left;
+    margin-left: 25px;
+    
+}
+li{
+    font-size: 20px;
+    margin: 5px;
+    
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.emergency{
+    padding-left: 40px;
+    width: 80%;
+    margin-left: 400px;
+    margin-right: auto;
+}
